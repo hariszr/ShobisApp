@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974969003488",
+    "project_id": "shobisapp",
+    "storage_bucket": "shobisapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974969003488:android:636d464cf61481cd445f85",
+        "android_client_info": {
+          "package_name": "com.example.shobisapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974969003488-2oug5louvor3nn7c25bgk904rsv18061.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCutV82b9jTwLKwzIK9FxP6EzyQ8kVx5dI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974969003488-2oug5louvor3nn7c25bgk904rsv18061.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
